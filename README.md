@@ -23,7 +23,7 @@ To deploy the contract, follow these steps:
 - Deploy the contract.
 
 2. Initial Token Minting
-- Once deployed, the contract automatically mints 1 token to the deployer’s address.
+- Once deployed, the contract automatically mints token to the deployer’s address.
 
 3. Mint Additional Tokens
 - Use the mintTokens function to mint additional tokens.
