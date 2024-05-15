@@ -67,14 +67,6 @@ function mintTokens(address to, uint256 amount) public onlyOwner {
 }
 ```
 
-##  Events 
-
-The contract emits the following events:
-
-- `Transfer`: Triggered when tokens are transferred between addresses.
-- `Burn`: Triggered when tokens are erased by a user.
-- `Mint`: Triggered when tokens are minted by the owner.
-
 **Authors**
 
 - Ryan Lester Aban
